@@ -1,4 +1,4 @@
-# npm Code-Along
+# npm Code-Along c
 
 ## Learning Goals
 
